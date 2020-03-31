@@ -1,0 +1,13 @@
+name: first-steps
+channels:
+    - conda-forge
+dependencies:
+  - numpy
+  - requests
+  - jupyter #do I need this?
+  - matplotlib
+  - seaborn
+  - pandas
+  - scikit-learn
+  - rise
+  - geopandas
