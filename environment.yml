@@ -2,12 +2,9 @@ name: first-steps
 channels:
     - conda-forge
 dependencies:
-  - numpy
-  - requests
-  - jupyter #do I need this?
-  - matplotlib
-  - seaborn
-  - pandas
-  - scikit-learn
-  - rise
-  - geopandas
+  - numpy=1.19.0
+  - jupyter=1.0.0
+  - matplotlib=3.2.1
+  - seaborn=0.10.1
+  - pandas=1.0.5
+ 
